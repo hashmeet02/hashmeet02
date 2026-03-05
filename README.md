@@ -1,11 +1,10 @@
 # Hey 👋! Hashmeet here.
 ![logo](/logo3.png)
 
-I am Hashmeet Singh Saini, Computer Programming and Analysis graduate. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
+I am Hashmeet S., Computer Programming and Analysis graduate. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
 
 ### CURRENTLY
-- 👔Working as a Research Assistant at Seneca College, to develop a native language learning tool for QuillSoft aiming to promote literacy.
-- 👀Looking for fulltime software developer positions.
+- 👔 Working as a Software Developer @ Mercury Mortgages Inc.
 
 ### LANGUAGES AND TOOLS  
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
