@@ -1,6 +1,4 @@
-# Hey 👋! Hashmeet here.
-![logo](/logo3.png)
-
+# Hey 👋!
 I am Hashmeet S., Computer Programming and Analysis graduate. I am a passionate full-stack developer with a love for clean looking softwares. My love for programming has enabled me to have a peek at the backstage of the softwares I always have appreciated.
 
 ### CURRENTLY
